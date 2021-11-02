@@ -1,5 +1,5 @@
+camila|10/09/1999|chilena
 juan|11/12/2010|mexicano
 sandra|03/09/1998|colombiana
 rodrigo|23/01/2008|brasileño
 leidy|18/06/2003|dominicana
-maria|23/05/2000|española

@@ -1,5 +1,6 @@
-juan|11/12/2010|mexicano
+juan|03/11/1998|brasileño
 sandra|03/09/1998|colombiana
 rodrigo|23/01/2008|brasileño
 leidy|18/06/2003|dominicana
 maria|23/05/2000|española
+rodrigo|23/01/2008|brasileño
